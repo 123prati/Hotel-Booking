@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Booking Platform",
+  "description": "A modern, responsive, and elegant Hotel Booking Platform to find, search, explore, and book luxury hotels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
